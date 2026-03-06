@@ -1,0 +1,6 @@
+name: xaero-map-spigot
+version: 1.0.0
+main: dev.chaws.xaero.map.spigot.XaeroMapPlugin
+folia-supported: true
+api-version: 1.19
+authors: [Chaws]
